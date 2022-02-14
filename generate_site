@@ -1,0 +1,4 @@
+source library/generate_site.sh
+
+main
+open html/all.html

@@ -1,0 +1,37 @@
+<article class="pokemon-card" id="1">
+  <div class="pokemon-image">
+      <img src="images/bulbasaur.png" alt="bulbasaur" title="bulbasaur">
+  </div>
+  <section class="pokemon-details">
+      <header>Bulbasaur</header>
+      <div class="types">
+          <p class="grass">Grass</p><p class="poison">Poison</p>
+      </div>
+  </section>
+  <table class="stats">
+      <tr>
+          <th>Weight</th>
+          <td>69</td>
+      </tr>
+      <tr>
+          <th>Base XP</th>
+          <td>64</td>
+      </tr>
+      <tr>
+          <th>HP</th>
+          <td>45</td>
+      </tr>
+      <tr>
+          <th>Attack</th>
+          <td>49</td>
+      </tr>
+      <tr>
+          <th>Defense</th>
+          <td>49</td>
+      </tr>
+      <tr>
+          <th>Speed</th>
+          <td>45</td>
+      </tr>
+  </table>
+</article>
